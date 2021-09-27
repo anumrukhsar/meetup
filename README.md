@@ -1,10 +1,10 @@
 # meetup
 
-A new Flutter project.
+An event meetup app.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is an application related to Event meetup using GetX pattern.
 
 A few resources to get you started if this is your first Flutter project:
 
